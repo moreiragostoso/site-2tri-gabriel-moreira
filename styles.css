@@ -1,0 +1,14 @@
+:root{
+    --cor-de-fundo: black;
+    --cor-de-cabeçalho: rgb(0, 0, 0);
+    --cor-de-texto-principal: white;
+    }
+    
+    body{
+    background-color: var(--cor-de-fundo);
+    }
+    
+    h1{
+    background-color: var(--cor-de-cabeçalho);
+    color: var(--cor-de-texto-principal);
+    }
